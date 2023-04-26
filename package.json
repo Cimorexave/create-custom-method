@@ -1,0 +1,13 @@
+{
+  "name": "create-custom-method",
+  "version": "1.0.0",
+  "description": "create your own custom method on your local array, object, string or number!",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "./types.d.ts",
+  "keywords": ["create custom method", "javascript custom method", "method", "custom method", "custom-method"],
+  "author": "Sina Cimorexave Sadeqi",
+  "license": "ISC"
+}
