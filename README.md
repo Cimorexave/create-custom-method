@@ -1,6 +1,6 @@
 ## How to use
 it's Simple:
-```
+```javascript
 import createMethod from "create-custom-method"
 createMethod(source, "print", () => {
     console.log("source: " + source)
