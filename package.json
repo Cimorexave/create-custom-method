@@ -1,6 +1,6 @@
 {
   "name": "create-custom-method",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "create your own custom method on your local array, object, string or number!",
   "main": "main.ts",
   "scripts": {
